@@ -43,7 +43,7 @@ section#login {
 
 section#login > div#image {
    display: block;
-   background: #5f2c82 url(../images/picture.jpg) no-repeat;
+   background: #69678d url(../images/picture.jpg) no-repeat;
    height: 200px;
    background-size: cover;
    background-position: center;
